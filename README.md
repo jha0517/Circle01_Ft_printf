@@ -2,7 +2,7 @@
 
 The `ft_printf` function is a recreation of the standard `printf` function in C. It allows you to format and print text to the console according to your specifications.
 
-❮img src="image.png"❯
+![](image.png)
 
 ## Installation
 
